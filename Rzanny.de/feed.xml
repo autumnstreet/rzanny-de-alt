@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:BA43ECC3-0E27-474D-8B9D-1894553E2575</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-09-10T10:37:50+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:CADA3ABC-26AC-4EBE-AA1E-B6F2361D586A</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">CADA3ABC-26AC-4EBE-AA1E-B6F2361D586A</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2015-09-10T10:37:50.001+02:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8C3F52E2-1AA4-4FC5-8501-269D6B2755FF</id>
+  <title>Fotos</title>
+  <title xmlns="urn:iweb:">Fotos</title>
+  <in-navbar xmlns="urn:iweb:">8C3F52E2-1AA4-4FC5-8501-269D6B2755FF</in-navbar>
+  <link rel="alternate" href="Fotos.html"/>
+  <updated>2015-09-10T10:37:50.002+02:00</updated>
+  <content>Fotos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:18A174D1-514F-4F0F-A88C-E04F68EEED92</id>
+  <title>Referenzen</title>
+  <title xmlns="urn:iweb:">Referenzen</title>
+  <in-navbar xmlns="urn:iweb:">18A174D1-514F-4F0F-A88C-E04F68EEED92</in-navbar>
+  <link rel="alternate" href="Referenzen.html"/>
+  <updated>2015-09-10T10:37:50.003+02:00</updated>
+  <content>Referenzen</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:83DB9FAA-25AF-4C1D-BFEF-AF0CD764AEDE</id>
+  <title>Audio/Video</title>
+  <title xmlns="urn:iweb:">Audio/Video</title>
+  <in-navbar xmlns="urn:iweb:">83DB9FAA-25AF-4C1D-BFEF-AF0CD764AEDE</in-navbar>
+  <link rel="alternate" href="Audio_Video.html"/>
+  <updated>2015-09-10T10:37:50.004+02:00</updated>
+  <content>Audio/Video</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F1BA1532-8485-4B2A-B506-8539ED7BDE38</id>
+  <title>Coaching</title>
+  <title xmlns="urn:iweb:">Coaching</title>
+  <in-navbar xmlns="urn:iweb:">F1BA1532-8485-4B2A-B506-8539ED7BDE38</in-navbar>
+  <link rel="alternate" href="Coaching.html"/>
+  <updated>2015-09-10T10:37:50.005+02:00</updated>
+  <content>Coaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3E57C320-D193-4707-9990-5E1B22AB759D</id>
+  <title>Vita</title>
+  <title xmlns="urn:iweb:">Vita</title>
+  <in-navbar xmlns="urn:iweb:">3E57C320-D193-4707-9990-5E1B22AB759D</in-navbar>
+  <link rel="alternate" href="Vita.html"/>
+  <updated>2015-09-10T10:37:50.006+02:00</updated>
+  <content>Vita</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B9150C29-D998-4AD2-A8A5-56AF9BF93F75</id>
+  <title>Kontakt</title>
+  <title xmlns="urn:iweb:">Kontakt</title>
+  <in-navbar xmlns="urn:iweb:">B9150C29-D998-4AD2-A8A5-56AF9BF93F75</in-navbar>
+  <link rel="alternate" href="Kontakt.html"/>
+  <updated>2015-09-10T10:37:50.007+02:00</updated>
+  <content>Kontakt</content>
+ </entry>
+</feed>

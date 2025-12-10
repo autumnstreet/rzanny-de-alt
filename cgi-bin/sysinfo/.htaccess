@@ -1,0 +1,7 @@
+AuthUserFile /www/htdocs/w0057cd5//cgi-bin/sysinfo//.htpasswd
+AuthGroupFile /dev/null
+AuthName ByPassword
+AuthType Basic
+<Limit GET POST>
+require user w0057cd5
+</Limit>

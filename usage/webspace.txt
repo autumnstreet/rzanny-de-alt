@@ -1,0 +1,5 @@
+belegter Speicherplatz:
+htdocs	: 70802
+pop	: 1193
+	m00b44bb  -> 1193
+chroot	: 0

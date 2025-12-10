@@ -1,0 +1,104 @@
+History von Sysinfo:(Sysinfo.cgi)
+
+3.1.2001 version 1.21
+- Erkennung für PGP,SH und Gunzip hinzugefügt.
+- Die meissten Namen von "Allgemeine Pfade" sind ankickbar und wenn möglich erscheint dann eine Hilfeseite von diesem Befehl.
+
+31.12.2001 version 1.20
+- Dead.Letter Erkennung verbessert.
+- Die Modul Namen sind nun anklickbar und wenn vorhanden wird die Dokumentation von dem Perl Modul angezeigt!
+- GZIP Komprimierung hinzugefügt.(optional)
+- Script optimiert und verkleinert um viele Kilobytes!
+
+30.12.001 version 1.19
+- Logfile Erkennung verbessert.
+
+29.11.2001 version 1.18
+- Modul-Versions Erkennung wurde verbessert.
+- Logfile Anzeige-Bug behoben.
+- einwenig optimiert.
+
+29.11.2001 version 1.17
+- Windows Version hinzugefügt. Nun wird die Windows Version Angezeigt genauso wie die Kernel Version auf einem Linux Server.
+- Windows-Uptime hinzugefügt. Nun wird auch unter Windows Angezeigt seit wann der Server aktiv ist.
+- "Allgemeine Pfade" wurden um folgende Erkennungen erweitert: Pfad zu Tar & Gzip
+- Dank an HeXaChLoR(chaospunk@gmx.net) von www.perlhelp.de das ich "Windows-Uptime" Codestück entwenden durfte aus Tellme.
+
+25.10.2001 version 1.16
+- "Mime-Types" überarbeitet deutlich schneller und bessere Erkennung.
+- "Allgemeine Pfade" wurden um folgende Erkennungen erweitert: Pfad zu Whois, Ping, Nslookup, Finger, Dnsquery
+- kleine detail Verbesserungen am Quellcode
+
+12.9.2001 version 1.15
+- "Systeminfos" stark überarbeitet. Besseres Design, bessere Erkennung, mehr Speed.
+- Neue Lizenz (weniger Einschränkungen)
+- kleine detail Verbesserungen am Quellcode
+- Signal Alarm geändert auf 300 Sekunden. Danach schaltet das Script sich selbst ständig ab. (Internal Error 500)
+
+23.8.2001 version 1.14
+- Fehlermeldungen ausradiert im Kopf.
+- Signal Alarm eingebaut. Das Script läuft maximal 30 Sekunden danach schaltet es sich selbst ab.
+- Einige kleinere Bugs gefixt.
+
+1.7.2001 version 1.13
+- Komplett neue Logfile erkennung.
+- Perl-Debugger kann nun Warnungen ausgeben.
+- Allgemeine Pfade werden nun auf mehr Servern erkannt.
+- Ports sind weggefallen wegen ungenauigkeit.
+
+21.5.2001 version 1.12
+- Webspace berechnen funktioniert nun auf den Systemen: Unix, Linux, Windows NT und Windows 9x
+- Systeminfos funktioniert nun auch ohne oder mit DBI.(Autoerkennung durch einen Begin block)
+
+7.5.2001 version 1.1
+- Das Skript wurde von Kopf bis Fuss komplett neugeschrieben. Deswegen keine Einzelnaufzählung.
+- Dank an HeXaChLoR(chaospunk@gmx.net) von www.perlhelp.de das ich einige Codestücke entwenden durfte aus Tellme.
+
+11.4.2001 version 1.04
+- Perl-Debugger bugfixed.
+- Packen bugfixed.
+
+22.2.2001 version 1.03
+- Datenbank erkennung hinzugefügt.
+- Grep / Date / Userid erkennung hinzugefügt.
+- Perlpfad erkennung verbessert.
+- Sendmailpfad erkennung verbessert.
+- Dank an HeXaChLoR(chaospunk@gmx.net) von www.perlhelp.de das ich einige Codestücke entwenden durfte aus Tellme.
+
+20.1.2001 version 1.02
+- Internet-Zeit hinzugefügt.(beats)
+- Logfiles erkennung und anzeige verbessert.
+- Packen mit Passwortschutz, das passwort muss man im kopf der system.cgi festlegen.
+- Relativer-Pfad anzeige verbessert.
+- Uptime erkennung verbessert.(1 Routine erkennt alles, 2 Routine erkennt nur Tage)
+
+10.1.2001 version 1.01
+- Logfiles erkennung verbessert.
+- In Mime-Types werden nun auch Akzeptierte Dateisysteme des Server's angezeigt.
+- Dead.letter (Tote Mails) falls vorhanden werden angezeigt.
+- Ports des Servers werden nun angezeigt.
+- Man kann verzeichnis Packen, sofern das Betriebsystem Unix oder Linux ist.
+- Mounted Filesystem erkennung verbessert.
+- Laufende Server Prozesse (im detail) in Systemninfos per link nun erreichbar.
+- Systeminfos wurden optisch an Mozilla, Netscape und Opera angepasst.
+- Geschwindigkeit optimiert.
+- Kernel Version erkennung verbessert.
+- Hardware Informationen (2) erkennung und anzeige in SCSI Devices verbessert.
+
+19.12.2000 version 1.0
+- Webspace berechnen wurde verbessert.
+
+18.12.2000 version 0.9
+- Webspace berechnen erweitert.
+- Errorpages (404,401,403,500,usw.) hinzugefügt.
+- Fehler im Perl-Debugger behoben.
+- Mime-Types falls nicht gefunden wird dies nun auch angezeigt.
+
+8.12.2000 version 0.8
+- Erste Veröffentlichung.
+
+------------------------------------------------------------
+Euer Stefan Gipper (Stefanos)
+
+E-Mail: Stefanos@kknd.de
+Webseite: http://www.coder-world.de
